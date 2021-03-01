@@ -1,0 +1,573 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.804; Version 2009; 64bit' Language: 'en' Physical Memory: 16298 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/boris/OneDrive/Documenten/GitHub/eindwerk/deMarkt
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58453
+Successfully changed project path to: C:/Users/boris/OneDrive/Documenten/GitHub/eindwerk/deMarkt
+C:/Users/boris/OneDrive/Documenten/GitHub/eindwerk/deMarkt
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 19.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/boris/OneDrive/Documenten/GitHub/eindwerk/deMarkt/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   
+    VRAM:     8152 MB
+    Driver:   27.20.12033.2007
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56636
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002625 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 19.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.660 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000831 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.650 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.5 MB.
+System memory in use after: 56.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1540.
+Total: 1.498700 ms (FindLiveObjects: 0.139100 ms CreateObjectMapping: 0.039700 ms MarkObjects: 1.259800 ms  DeleteObjects: 0.059300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6e520b92ccfc61bcfa21a7bcab8468') in 0.004287 seconds
+  Import took 0.005924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.159019 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6e520b92ccfc61bcfa21a7bcab8468') in 0.002379 seconds
+  Import took 0.004111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.613595 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(8b3a1ecc4e0916846a0bbc1f3072548e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(8b3a1ecc4e0916846a0bbc1f3072548e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c7f3e7fd6fcd14c0fc0c434b37b612') in 0.002702 seconds
+  Import took 0.004332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(8b3a1ecc4e0916846a0bbc1f3072548e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(8b3a1ecc4e0916846a0bbc1f3072548e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c7f3e7fd6fcd14c0fc0c434b37b612') in 0.001980 seconds
+  Import took 0.003314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.047114 seconds.
+  path: Assets/Resources/Sets
+  artifactKey: Guid(ed1d2fc61da1eca40b9cab182dcdd2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets using Guid(ed1d2fc61da1eca40b9cab182dcdd2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c11c81ca1625601754177916d92d7efa') in 0.002723 seconds
+  Import took 0.004270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000612 seconds.
+  path: Assets/Resources/Sets
+  artifactKey: Guid(ed1d2fc61da1eca40b9cab182dcdd2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets using Guid(ed1d2fc61da1eca40b9cab182dcdd2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c11c81ca1625601754177916d92d7efa') in 0.002464 seconds
+  Import took 0.003866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.479067 seconds.
+  path: Assets/Resources/Sets/building.fbx
+  artifactKey: Guid(f4edf5553320f3d419956055f4ab70ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/building.fbx using Guid(f4edf5553320f3d419956055f4ab70ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02e617fbfb05fc75f1479590efa3aad') in 0.695126 seconds
+  Import took 0.697782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.378888 seconds.
+  path: Assets/Resources/Sets/building.fbx
+  artifactKey: Guid(f4edf5553320f3d419956055f4ab70ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/building.fbx using Guid(f4edf5553320f3d419956055f4ab70ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27e21782695fe360c5c33241fb39580') in 0.024973 seconds
+  Import took 0.026857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.699337 seconds.
+  path: Assets/Resources/Sets/Bookshop
+  artifactKey: Guid(fca7f350a81b2e640af078ce44720689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop using Guid(fca7f350a81b2e640af078ce44720689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5b7f01eb8b777a4d18c23c27f04b0e') in 0.002513 seconds
+  Import took 0.004128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.648600 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31985b942dbc5f96c52500d8bf54426') in 0.024300 seconds
+  Import took 0.026104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.520234 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials
+  artifactKey: Guid(606aeb6552fde0242821e0823ef542eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials using Guid(606aeb6552fde0242821e0823ef542eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e71561ccc5bfee5769bf1c693211f6') in 0.003261 seconds
+  Import took 0.005072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.069459 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7433e21b1811fd3dd69277cf02fcdd0') in 0.013542 seconds
+  Import took 0.015569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.166872 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Airco.mat
+  artifactKey: Guid(1e6911549092d704e95231085527e9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Airco.mat using Guid(1e6911549092d704e95231085527e9ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d1c010e43620c4847aed56c2f2cd2e') in 0.010844 seconds
+  Import took 0.012423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Glass 1.mat
+  artifactKey: Guid(11294ea6dc27b1a4aa9403c79ba46af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Glass 1.mat using Guid(11294ea6dc27b1a4aa9403c79ba46af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ee47d795fd336285f282cb53c07cb9') in 0.006915 seconds
+  Import took 0.008475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/wall.mat
+  artifactKey: Guid(ee9836460c8653547a6d183a5cfb3801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/wall.mat using Guid(ee9836460c8653547a6d183a5cfb3801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d502c330b6dfb0c1d7bc06e7d9a0ab3') in 0.007055 seconds
+  Import took 0.008793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/TexturesCom_SignsCameras0002_M.mat
+  artifactKey: Guid(c9e9b70c76332ef4997a4a1823b5347b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/TexturesCom_SignsCameras0002_M.mat using Guid(c9e9b70c76332ef4997a4a1823b5347b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755839b921e251d9795358de9ba4f1fe') in 0.006909 seconds
+  Import took 0.008391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/deBoekenkast-01.mat
+  artifactKey: Guid(301a70555ab20ad469fe89543e9569f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/deBoekenkast-01.mat using Guid(301a70555ab20ad469fe89543e9569f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff137d669e89e9177da6b47b04ce51f') in 0.007077 seconds
+  Import took 0.008296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/glass.mat
+  artifactKey: Guid(14493805e28b31940bea0a0c9e09ed81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/glass.mat using Guid(14493805e28b31940bea0a0c9e09ed81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1e11068ccb042a5a5c8b493af9c530') in 0.008366 seconds
+  Import took 0.009904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Material.mat
+  artifactKey: Guid(a514d8bc34639244eb463b6018eb7ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Material.mat using Guid(a514d8bc34639244eb463b6018eb7ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0521fe9b392b4aacf8d13179ffad4f6') in 0.007757 seconds
+  Import took 0.009424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.582312 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/bookstoreBake.png
+  artifactKey: Guid(6e80595b3032af340994f7197b97afdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/bookstoreBake.png using Guid(6e80595b3032af340994f7197b97afdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66cb8a1f789744e61b03ef1bffc8440b') in 0.037069 seconds
+  Import took 0.038983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 294.389453 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22bfb6c0abc048567023668c757d5e91') in 0.017366 seconds
+  Import took 0.019461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.107257 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a43376b0d75d3c590873e1fe13f62424') in 0.010698 seconds
+  Import took 0.012610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.911100 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/building.mat
+  artifactKey: Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/building.mat using Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b4cba2bc92929b0e0c913c053f6af94') in 0.007620 seconds
+  Import took 0.009363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.620011 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38348b5cb7ecc0e93b71a4c8f8b3c0b') in 0.011520 seconds
+  Import took 0.013348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.916613 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f2b940a9c1cd9f010a120e2c96e7e4') in 0.010610 seconds
+  Import took 0.012494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f2b940a9c1cd9f010a120e2c96e7e4') in 0.010083 seconds
+  Import took 0.011834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2149.469620 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/building.fbx
+  artifactKey: Guid(fb364e0d432328f42ad08bc0c1a9ba21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/building.fbx using Guid(fb364e0d432328f42ad08bc0c1a9ba21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fef35f2d759c752d1b8c8d647287402') in 0.022675 seconds
+  Import took 0.024585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.070675 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcde0762b1c0f9764eb158df4e75c885') in 0.012120 seconds
+  Import took 0.013926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.138583 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f609b96e9f7fef170e1248c389433c9') in 0.010675 seconds
+  Import took 0.012602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.691125 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Building.mat
+  artifactKey: Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Building.mat using Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3178dd7838688236aa081e4c419f1c16') in 0.007797 seconds
+  Import took 0.009559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.289623 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/buildingBake.png
+  artifactKey: Guid(6ba46f5676e21564181a755d3be2693e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/buildingBake.png using Guid(6ba46f5676e21564181a755d3be2693e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca752ca89303e4a6b74778afd481c1ca') in 0.059851 seconds
+  Import took 0.061736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.038682 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7fe590ff34694a2fba03f2b11061427') in 0.019216 seconds
+  Import took 0.021045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.499216 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0d85480183120f43cf1fe026232747') in 0.018818 seconds
+  Import took 0.020658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.051770 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ae11f01bbd620117de82738cdbd35c') in 0.017690 seconds
+  Import took 0.019458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.919113 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f964dc847e2b316e11ad2d589f3e97c') in 0.015920 seconds
+  Import took 0.017880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.631455 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Building.mat
+  artifactKey: Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Building.mat using Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a838e932115464cc9b7613e1376e4076') in 0.009917 seconds
+  Import took 0.011808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.138005 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72e4d9cd8162ca415aa3a0a37526eb4') in 0.016304 seconds
+  Import took 0.018134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.170984 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Building.mat
+  artifactKey: Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Building.mat using Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b9f13b8da0db4a6bc1bfab4c973155f') in 0.017172 seconds
+  Import took 0.019136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.997540 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Building.mat
+  artifactKey: Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Building.mat using Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f48c273b4bde86cf7b5bfef54c7de8') in 0.010604 seconds
+  Import took 0.012563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.036759 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Building.mat
+  artifactKey: Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Building.mat using Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e99142c7d19fc95bc49f1ba64b91079') in 0.010387 seconds
+  Import took 0.012248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2211.363064 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/buildingBake.png
+  artifactKey: Guid(6ba46f5676e21564181a755d3be2693e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/buildingBake.png using Guid(6ba46f5676e21564181a755d3be2693e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37bda0078123a4cc1977eb5c789cf591') in 0.043999 seconds
+  Import took 0.045985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.830533 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2442385389d8e4892b23e6e547d7a9a') in 0.025887 seconds
+  Import took 0.027988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1024.496733 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3592f7f5fddbf762c190d34626f178') in 0.020205 seconds
+  Import took 0.022258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.271988 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c11d0a2ca2a2fcf8e6488bc8e03cd820') in 0.011140 seconds
+  Import took 0.013175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.955687 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/buildingColor.png
+  artifactKey: Guid(2cb0d459d06cbf846842faa9d51a7007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/buildingColor.png using Guid(2cb0d459d06cbf846842faa9d51a7007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05cbf31f336dcb592b126c643b265764') in 0.062566 seconds
+  Import took 0.064539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/buildingNormal.png
+  artifactKey: Guid(8c06a940d19386f47bfdfe07f2a9f693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/buildingNormal.png using Guid(8c06a940d19386f47bfdfe07f2a9f693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517dca61b017a157e3d7cdd1d4033fe1') in 0.008610 seconds
+  Import took 0.010631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002717 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/buildingNormal.png
+  artifactKey: Guid(8c06a940d19386f47bfdfe07f2a9f693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/buildingNormal.png using Guid(8c06a940d19386f47bfdfe07f2a9f693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517dca61b017a157e3d7cdd1d4033fe1') in 0.008605 seconds
+  Import took 0.010176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.183627 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb09b206dd7079bf97bf183a16ce8ef4') in 0.015550 seconds
+  Import took 0.017499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.155928 seconds.
+  path: Assets/Resources/Sets/Bookshop/building.fbx
+  artifactKey: Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/building.fbx using Guid(ae8484b1676fe5a419b90d02bbf377e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1068de61d93d71c5dcaa79f73108943e') in 0.013894 seconds
+  Import took 0.016089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.088585 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Building 1.mat
+  artifactKey: Guid(f4de2c10c8b7cdc4796d128733b012f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Building 1.mat using Guid(f4de2c10c8b7cdc4796d128733b012f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b67b0e91c84d52d5f552bd103787e5f') in 0.013098 seconds
+  Import took 0.016682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.537401 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/buildingNormal.png
+  artifactKey: Guid(8c06a940d19386f47bfdfe07f2a9f693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/buildingNormal.png using Guid(8c06a940d19386f47bfdfe07f2a9f693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058c7fd415abda387ea0d7676bbfb30d') in 0.015012 seconds
+  Import took 0.016979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.839873 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/Building.mat
+  artifactKey: Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/Building.mat using Guid(51fc4397f19aba6449b58e9a7526ad09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00feffc8f01e67765c81da8f5e94f6d3') in 0.013650 seconds
+  Import took 0.015812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1131.452159 seconds.
+  path: Assets/Resources/Sets/Bookshop/bookshelf_one.fbx
+  artifactKey: Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/bookshelf_one.fbx using Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1d8e1a7b6e9cba99edd73be320dca9') in 0.018617 seconds
+  Import took 0.020740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.581665 seconds.
+  path: Assets/Resources/Sets/Bookshop/bookshelf_one.fbx
+  artifactKey: Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/bookshelf_one.fbx using Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89ddcda844ba09ba3c9df88d8c7af29c') in 0.014460 seconds
+  Import took 0.016318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.844212 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/bookshelf.001.mat
+  artifactKey: Guid(014765ecfe94ad944b8c6b1bbf924eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/bookshelf.001.mat using Guid(014765ecfe94ad944b8c6b1bbf924eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d3a825f3d547a527661cc05b2769aa') in 0.007506 seconds
+  Import took 0.009385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.886027 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/bookshelf_one_color.png
+  artifactKey: Guid(60a97f06ceb15c24883853bf8b063957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/bookshelf_one_color.png using Guid(60a97f06ceb15c24883853bf8b063957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62357146e44b9b77f71ab41ed5aac4f2') in 0.068041 seconds
+  Import took 0.070096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/bookshelf_one_normal.png
+  artifactKey: Guid(38eb478d50d3c994bb10d81367822d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/bookshelf_one_normal.png using Guid(38eb478d50d3c994bb10d81367822d7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62070dc1bf894ca70b49e730a1883ff') in 0.006902 seconds
+  Import took 0.008492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.872406 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/bookshelf_one.fbx
+  artifactKey: Guid(b4f8426b1ab894c4587f64a0292f7d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/bookshelf_one.fbx using Guid(b4f8426b1ab894c4587f64a0292f7d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd085fd89a2eb72226ced8505b6824597') in 0.014076 seconds
+  Import took 0.015909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.491388 seconds.
+  path: Assets/Resources/Sets/Bookshop/bookshelf_one.fbx
+  artifactKey: Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/bookshelf_one.fbx using Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93c7bd7c342a52814fb0ef673340115d') in 0.012714 seconds
+  Import took 0.014543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.835578 seconds.
+  path: Assets/Resources/Sets/Bookshop/bookshelf_one.fbx
+  artifactKey: Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/bookshelf_one.fbx using Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b5230d82a9cc88544dcefb3a7300e9d') in 0.009348 seconds
+  Import took 0.011156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001467 seconds.
+  path: Assets/Resources/Sets/Bookshop/bookshelf_one.fbx
+  artifactKey: Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/bookshelf_one.fbx using Guid(be972880b1846fe40b3d5f58e115aeda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b5230d82a9cc88544dcefb3a7300e9d') in 0.009926 seconds
+  Import took 0.011451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.933181 seconds.
+  path: Assets/Resources/Sets/Bookshop/Materials/bookshelf.001.mat
+  artifactKey: Guid(014765ecfe94ad944b8c6b1bbf924eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sets/Bookshop/Materials/bookshelf.001.mat using Guid(014765ecfe94ad944b8c6b1bbf924eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ac5f7c96a39c9d771c1ee398103b92') in 0.006890 seconds
+  Import took 0.010227 seconds .
+
