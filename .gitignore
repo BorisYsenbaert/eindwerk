@@ -61,3 +61,4 @@ crashlytics-build.properties
 # Blender
 *.blend
 *.blend1
+*.fbx
